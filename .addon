@@ -1,0 +1,20 @@
+{
+    "name": "Poker",
+    "version": "0.0.1",
+    "sharedassets": "*.*",
+    
+    "depends": 
+    [
+        "base",
+        "citizen"
+    ],
+
+    "gamemodes": 
+    [
+        {
+            "name": "poker",
+            "title": "Poker",
+            "description": "Up the ante and go home rich or lose it all in this Poker gamemode. 2 - 8 players."
+        }
+    ]
+}
